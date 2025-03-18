@@ -9,6 +9,9 @@ Instructions on assembling a simple strip cutter used in battery manufacturing. 
 - Video introduction: *(link to be added)*
 - Conductor mentioned in the video: *(link to be added)*
 
+![Demo Gif](demo_gif.gif)
+
+
 ## Table of Contents
 
 - [Arduino Nano Flashing](#arduino-nano-flashing)
