@@ -6,8 +6,8 @@
 
 Instructions on assembling a simple strip cutter used in battery manufacturing. The device also has the capability to weld a second layer of strip for welding copper using "sandwich" technology. Included are 3D print files and code for Arduino Nano.
 
-- Video introduction: *(link to be added)*
-- Conductor mentioned in the video: *(link to be added)*
+- [Video introduction](https://www.youtube.com/watch?v=2g4eOFBQs-M)
+- [Conductor mentioned in the previous video](https://youtu.be/SqSB7JrVHbk)
 
 ![Demo Gif](demo_gif.gif)
 
